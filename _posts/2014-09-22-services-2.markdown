@@ -5,4 +5,4 @@ category: Services
 title: Vision<br>
 description: |
 ---
-  Our vision is to pave the way for smarter, safer, and more sustainable roads. With a forward-thinking approach, we aim to transform traditional road management by integrating advanced analytics, predictive maintenance, and real-time data monitoring. → (illustrate direction with an arrow, omitting the PCO number).
+  Our vision is to pave the way for smarter, safer, and more sustainable roads. With a forward-thinking approach, we aim to transform traditional road management by integrating advanced analytics, predictive maintenance, and real-time data monitoring.
