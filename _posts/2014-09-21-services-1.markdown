@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: whatdowedo.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: What Do We Do
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  We specialize in providing advanced pavement analytics, offering cities and municipalities actionable insights into road conditions, traffic patterns, and maintenance needs. By leveraging our expertise, we empower stakeholders to make informed decisions, optimize resource allocation, and improve overall road quality for the communities they serve.

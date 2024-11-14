@@ -1,7 +1,7 @@
 ---
 layout: default
 img: team.png
-category: Team
+category: Services
 title: Team and Partners  
 description: |
 ---
