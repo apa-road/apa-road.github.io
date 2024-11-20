@@ -5,4 +5,4 @@ category: Services
 title: What Do We Do
 description: |
 ---
-  We specialize in providing advanced pavement analytics, offering cities and municipalities actionable insights into road conditions, traffic patterns, and maintenance needs. By leveraging our expertise, we empower stakeholders to make informed decisions, optimize resource allocation, and improve overall road quality for the communities they serve.
+  We specialize in providing infrastructures analytics, offering cities and municipalities actionable insights into road conditions and maintenance needs. By leveraging our expertise, we empower stakeholders to make informed decisions, optimize resource allocation, and improve overall road quality for the communities they serve.
