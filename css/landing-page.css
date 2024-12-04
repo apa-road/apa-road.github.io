@@ -89,6 +89,7 @@ h6 {
 
 #about p {
     font-size: 1.8em; /* Change font size for the paragraph */
+    text-align: justify;
 }
 .network-name {
     text-transform: uppercase;
